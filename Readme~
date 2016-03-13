@@ -1,0 +1,5 @@
+The script task.py takes an input a plaintext file and downloads all images, storing them on the local hard disk.
+The file testMethods.py tests some features of task.py.
+
+Language - Python 2.7.6
+OS - Ubuntu 14.04
